@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhisg26
+- 👋 Hi, I’m Abhishek Galagali
 - 👀 I’m interested in doing AIML projects small/large scale projects in any domain
 - 🌱 I have completed learning AIML, DS , concepts.
 - 💞️ I’m looking to collaborate on any learning opportunities.
