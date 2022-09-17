@@ -8,12 +8,12 @@
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-galagali-abhi4ai" target="_blank">
-    <img align="center" alt="Vinay Joglekar | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="Abhishek Galagali | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/abhisg26" target="_blank">
-    <img align="center" alt="Vinay Joglekar | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+    <img align="center" alt="Abhishek Galagali | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:abhisg26@gmail.com" target="_blank">
-    <img align="center" alt="Vinay Joglekar | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="Abhishek Galagali | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 <p>
